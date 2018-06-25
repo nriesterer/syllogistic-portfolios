@@ -19,7 +19,7 @@ import sylmodel as sm
 def simulate():
     # Simulation preferences
     n_train_examples = 100
-    n_samples = 10
+    n_samples = 500
 
     # Collector variables for storing the results
     weight_data = []
